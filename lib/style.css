@@ -1,0 +1,23 @@
+img {
+	height: 356px;
+	object-fit: cover;
+}
+.row > h3 {
+	text-align: center;
+}
+
+.col > h5 {
+	text-align: center;
+}
+
+.col {
+	padding: 2%;
+}
+
+h3 {
+	padding: 10px;
+}
+
+span {
+	font-weight: bold;
+}
